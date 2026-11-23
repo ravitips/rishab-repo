@@ -4,3 +4,6 @@ print(a+b)
 c=4
 d=2
 print(c-d)
+a=4
+b=2
+print(a*b)
