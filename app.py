@@ -10,5 +10,5 @@ print(a*b)
 a=4
 b=2
 print(a/b)
-a=3
-print(a^3)
+a=2
+print(a^2)
