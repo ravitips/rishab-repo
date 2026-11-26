@@ -1,1 +1,4 @@
 test.pdf
+.env
+venv
+node_modules
