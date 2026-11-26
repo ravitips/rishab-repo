@@ -12,3 +12,5 @@ b=2
 print(a/b)
 a=2
 print(a^2)
+a=2
+print(a^3)
